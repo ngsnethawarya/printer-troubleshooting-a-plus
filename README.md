@@ -5,7 +5,7 @@
 - Faded prints → Low toner
 - Speckling → Toner leak / dirty drum
 - Ghosting → Drum or fuser
-- Jams → Rollers, paper, debris
+- Jams → Rollers, paper, debris ( awlays check )
 
 ## Inkjet printers
 - Vertical lines → Clean printheads
